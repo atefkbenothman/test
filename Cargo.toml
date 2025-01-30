@@ -1,0 +1,13 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A simple Hello World library"
+license = "MIT"
+repository = "https://github.com/yourusername/hello_world"
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
